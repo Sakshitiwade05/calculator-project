@@ -8,7 +8,7 @@ This project performs basic arithmatic opertaions like addition,substraction,div
 - deployed using github papges
 - fully functional logic in javascript
   ## LIVE demo
-  [CLick here to use calculator](https://sakshitiwade05.github.io/OIBSIP/)
+  [CLick here to use calculator](https://sakshitiwade05.github.io/OIBSIP/task1/index.html)
 
   ##Internship
   this project is created as part of my **web development internship at[OIBSIP-Oasis infobyte]
